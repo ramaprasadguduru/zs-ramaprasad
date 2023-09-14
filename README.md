@@ -38,7 +38,7 @@
 
 ### Hi there 👋
 
-#### Some Stats
+#### Some Status
 
 ![Ramaprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zs-ramaprasad&count_private=true&show_icons=true&theme=onedark&hide=stars,contribs)
 
