@@ -33,3 +33,20 @@
 [![Ramaprasad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zs-ramaprasad&theme=react-dark)](https://github.com/zs-ramaprasad/github-readme-activity-graph)
 
 </div>
+
+
+
+### Hi there 👋
+
+#### Some Stats
+
+![Ramaprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zs-ramaprasad&count_private=true&show_icons=true&theme=onedark&hide=stars,contribs)
+
+##### Top Languages 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zs-ramaprasad&hide=html&theme=onedark&layout=compact)](https://github.com/zs-ramaprasad/github-readme-stats)
+
+
+<!---
+ramaprasad/ramaprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the zs-ramaprasad Preview link to take a look at your changes.
